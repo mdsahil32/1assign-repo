@@ -1,0 +1,129 @@
+/* header design */
+.header{
+    background-color: antiquewhite;
+    padding-left: 850px;
+    padding-right: 100px;
+    padding-top: 180px;
+    padding-bottom: 300px;
+    text-align: right;
+    background-image: url(./images/banner/banner3.png);
+}
+.title-sub{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+}
+.title-description{
+    color: white;
+}
+.btn-contact{
+    font-weight: 700;
+    font-size: 15px;
+    color: rgb(20, 97, 241);
+    border: none;
+    border-radius: 5px;
+    padding: 15px 10px;
+}
+/* main contant */
+.main-contant{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 180px;
+    padding-bottom: 50px;
+    text-align: right;
+    display: flex;
+    margin-right: 150px;
+}
+.main{
+    text-align:left ;
+}
+.main-title{
+    padding-top: 300px;
+}
+.title-contant{
+    font-weight: 700;
+    font-size: 35px;
+}
+.title-contant-description{
+    color: gray;
+}
+/* my plans */
+.title{
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.plans-container{
+    display: flex;
+    align-items: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+    gap: 80px;
+}
+.plans{
+    text-align: center;
+}
+.title-plans{
+    font-weight: 700;
+    font-size: 20px;
+}
+.plans-description{
+    color: gray;
+}
+/* text- bg image */
+.text-image{
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+   background-position: center;
+   padding-left: 200px;
+    padding-right: 700px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.btn-call{
+    font-weight: 700;
+    font-size: 15px;
+    color: rgb(20, 97, 241);
+    border: none;
+    border-radius: 5px;
+    padding: 20px 15px;
+    margin-bottom: 50px;
+}
+/* footer  */
+.footer{
+    padding-left: 200px;
+    padding-right: 400px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-color: black;
+    margin-top:100px ;
+   
+ 
+  
+}
+.btn-email{
+    color: white;
+    text-align:center;
+    background-color: black;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px 50px;
+}
+.btn-subscribe{
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: rgb(20, 97, 241);
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+.icons{
+    display:flex;
+    gap: 20px;
+}
+.details{
+    padding-bottom: 50px;
+}
